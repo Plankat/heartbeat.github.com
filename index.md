@@ -9,7 +9,7 @@ Hi, welcome to Blackett Laboratory!! This is the website of our summer project,
 [Jekyll](https://jekyllrb.com/) 
 
 ### Introduction
-
+![GitHub Logo](/images/logo.png)
 
 This heart-rate monitor is a simple infrared heartbeat monitor.  By shining an infrared LED through the thumb to a photodiode, the change in the intensity of infrared can be detected and shown on an oscilloscope after amplification. The number of change in the signal is counted and displayed as average heart rate. 
 

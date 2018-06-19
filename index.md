@@ -33,6 +33,7 @@ We used an infrared light as the light source, the light will penetrate the fing
 ![.](http://chuantu.biz/t6/331/1529444904x-1566679905.png)
 ![.](http://chuantu.biz/t6/331/1529444946x-1566679905.png)
 
+(sample provided by Bingxin Li)
 
 
 

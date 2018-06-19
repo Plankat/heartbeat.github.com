@@ -1,12 +1,12 @@
 ## Welcome to Imperial Department of Physics!!!
 
-Hi, welcome to Blackett Laboratory!! This is the website of our summer project,
+Hi, welcome to Blackett Laboratory!! 
+
+This is the website of our summer project,
 
 **DIY Heartbeat Monitor**
 
-[editor on GitHub](https://github.com/Plankat/heartbeat.github.com/edit/master/index.md) 
 
-[Jekyll](https://jekyllrb.com/) 
 
 ### Introduction
 
@@ -73,5 +73,9 @@ A microcontroller is a complicated integrated circuit which is used in automatic
 Liquid-crystal display, often know as LCD, is a flat-panel display or other electronically modulated optical device that uses the light-modulating properties of liquid crystals. Liquid crystals do not emit light directly, instead using a backlight or reflector to produce images in color or monochrome.
 
 
+### ...
 
+[editor on GitHub](https://github.com/Plankat/heartbeat.github.com/edit/master/index.md) 
+
+[Jekyll](https://jekyllrb.com/) 
 

@@ -9,7 +9,7 @@ Hi, welcome to Blackett Laboratory!! This is the website of our summer project,
 [Jekyll](https://jekyllrb.com/) 
 
 ### Introduction
-![GitHub Logo](http://www.nptel.ac.in/courses/117107094/lecturers/lecture_17/images/fig5.jpg)
+
 
 This heart-rate monitor is a simple infrared heartbeat monitor.  By shining an infrared LED through the thumb to a photodiode, the change in the intensity of infrared can be detected and shown on an oscilloscope after amplification. The number of change in the signal is counted and displayed as average heart rate. 
 
@@ -61,7 +61,7 @@ A peak detector is a series connection of diode and capacitor outputting a DC vo
 
 5. Comparator
 A comparator is a device that compares two input digital or analog signals and output a signal indicating which is larger. 
-![Fig 1](https://en.wikipedia.org/wiki/Comparator#/media/File:Opamp105.gif)
+![Fig 1](http://www.nptel.ac.in/courses/117107094/lecturers/lecture_17/images/fig5.jpg)
 When Vin>Vref ,Vout=high. When Vin<Vref, Vout=low 
 
 6. Microcontroller

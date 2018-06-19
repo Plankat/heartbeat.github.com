@@ -61,7 +61,7 @@ A peak detector is a series connection of diode and capacitor outputting a DC vo
 
 5. Comparator
 A comparator is a device that compares two input digital or analog signals and output a signal indicating which is larger. 
-![Fig 1](http://www.nptel.ac.in/courses/117107094/lecturers/lecture_17/images/fig5.jpg)
+![Fig 1](https://www.electronics-tutorials.ws/opamp/opamp105.gif)
 When Vin>Vref ,Vout=high. When Vin<Vref, Vout=low 
 
 6. Microcontroller

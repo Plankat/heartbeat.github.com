@@ -24,15 +24,14 @@ We used an infrared light as the light source, the light will penetrate the fing
 
 
 -Circuit Diagram
-![.](C:\Users\Plank\Desktop\Lab3\2.png)
+![.](http://chuantu.biz/t6/331/1529444587x-1566679905.png)
 
--Practical Circuit
-![.](C:\Users\Plank\Desktop\Lab3\5.png)
+
 
 
 -Sample Pulse Oscillograph
-![.](C:\Users\Plank\Desktop\Lab3\3.png)
-![.](C:\Users\Plank\Desktop\Lab3\4.png)
+![.](http://chuantu.biz/t6/331/1529444904x-1566679905.png)
+![.](http://chuantu.biz/t6/331/1529444946x-1566679905.png)
 
 
 
@@ -61,8 +60,10 @@ A peak detector is a series connection of diode and capacitor outputting a DC vo
 
 5. Comparator
 A comparator is a device that compares two input digital or analog signals and output a signal indicating which is larger. 
-![Fig 1](https://www.electronics-tutorials.ws/opamp/opamp105.gif)
-When Vin>Vref ,Vout=high. When Vin<Vref, Vout=low 
+
+  ![Fig 1](http://chuantu.biz/t6/331/1529444456x-1566680499.gif)
+
+  When Vin>Vref ,Vout=high. When Vin<Vref, Vout=low. 
 
 6. Microcontroller
 A microcontroller is a complicated integrated circuit which is used in automatically controlled devices such as remote controls. A microcontroller contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals. In this project, we use Arduino Uno.   
